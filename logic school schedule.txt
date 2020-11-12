@@ -1,0 +1,62 @@
+Logic HS schedule:
+-910: wakeup and travel, optional breakfast, optional short therapy to get students calm/stable/motivated/safe
+
+910-940 (30m): expository lecture for judgment. Connect what will be discussed in Judgment class with current events (thus teachers+admins must be adaptable and sharp on how curriculum relates to current society). In addition to giving background on judgment to ‘jog student’s minds’ throughout the day on the topic before Judgment class, it starts with a general news segment given by teachers so that students are better informed about the world. Should discuss multiple viewpoints. Then transitions into how judgment class can help students form scientific opinions about current events.
+
+940-1035 (55m): introspective meta-thinking for ethics and decision making; hands-on training [ Practical Reasoning ] [ Beliefs ] [Introspection]; teaches questioning assumptions and irrationalities and deciding what’s uncertain and what’s certain under what assumptions, recognizing logical fallacies and traps and biases
+
+5m break
+1040-1125 (45m): abstract models and analogies and problem solving heuristics, meme interpretation; hands-on training [ Creative Problem Solving ] [ Analogies ]; how to apply mental models for investigating a variety of situations you’ll come across in life, and to avoid confusing the map for the territory
+
+5m break
+1130-1215 (45m): detective work, social understanding, diplomacy, research, argumentation, writing; hands-on training [Communication] [ Conveyance ]; can get specific such as “How to interpret stats about economic growth?” or be general such as “How to present arguments to an angry person?”
+
+1215-1 (45m): carnival (food, rest, gym/fitness, therapy [cbt, family, trauma, pure listening, music, animal, etc], reading/studying, short-term mild psychedelics w/ a shaman, go outside/home break- if don’t come back within 5mins after period ends, then call made to parents)
+
+1-215 (25m x 3): life skills (environment/health/cooking and nutrition science [treat both body and env as part of same holistic ecosystem], technology/security, personal finance, repeated monday-only monthly rotations to new specific subjects such as woodworking or geometry or fishing or sewing; subjects are often re-visited and this Monday-only class is ungraded)
+
+215-3 (45m): carnival (food, rest, gym/fitness, therapy [cbt, family, trauma, pure listening, music, animal, etc], reading/studying, short-term mild psychedelics w/ shaman, go outside/home break)
+
+3-510 (2hrs w/ 10m intermission): reflective and interactive judgment; listen to debates between actors (good at improvising and knowledge about the current topic) and record your own judgments on them, compare with others if you want, see if you found the ‘right facts’ from your reasoning (only grade students on what facts they uncovered from the mock trial, NOT on their opinions, which are just recorded in their transcript report). Only at designated times, students can jump into debate, too; these allowed times are frequent, and each student is limited in speaking time to allow others to speak. In between debates, teachers explain important concepts in (life skills/sociology, history, politics, economics, statistics) necessary for understanding. Debates are designed to teach these subjects holistically. So for instance, one debate teaches ‘misusing statistics when discussing health care in X specific case’, another teaches ‘misusing stats when discussing controversial chemical substance in X case’, another teaches ‘how emotions cloud judgment during a dispute among friends in X case’, another teaches ‘if enounter this relationship issue, what to do?’, another teaches ‘when raising children and they get into criminal trouble, what to do?’, etc. Issues are pre-designed for curriculum (which changes each school year), but should be similar to issues that are relevant for current society. While this class puts all these social subjects together, there exist individual textbooks/videos explaining each subject separately in the traditional manner for self-study. Students are encouraged to study up on these subjects for future judgment classes, as all judgment topics are listed out so if ‘minimum wage’ discussion is held in March, a student is aware when it will happen and can prepare for it even in September.
+510-[Any time, max @ 8]: optional extracurriculars (sports, layman class rotations similar to the Monday-onlys, life skills, AP academics+ their homework, trades, clubs); AP academics include all traditional school subjects (trig, shakespeare, french, etc.) along with college classes (classics, engineering, art, architecture, etc.). Most students just choose to get out of school and do their own thing.
+
+<<<
+The hands-on classes have 2 components: intuitive vs formal. Eg) Using a mental model to quickly group and judge group Mean is ‘intuitive’, and formal is using algebra+stat calculations. Or intuitive is using a form of meditative self-questioning such as “Can I really choose my irrational reality over the fact that this possibly fake reality is unsupported by facts and will lead to finding the wrong murderer and thus my death? Or will I be more cautious and admit uncertainty?”, and formal using first order logic to organize thoughts in a way one couldn’t do without writing them down to compare with one another in a form that overcomes barriers of bias. Admissions/employers can decide which they care about more in their candidates.
+Hands-on training is done by teacher + AI assist during lectures, and by AI + teacher assist during indp studies. Teachers + AI should be familiar with their student’s progress (studying carefully at their transcript record) and like a coach, figure out a plan to get each student to do better in certain areas. Work with each student on personal academic goals.
+
+<<<
+For ‘at the same pace’ only:
+LITTLE/NO HOMEWORK- homework that is given at home should be able to be done by everyone within 5-10mins, meaning a total of 30mins at most of homework a day. Subjects coordinate with one another to decide if their total homework is too much. So ‘health’ class talks to ‘analogies’ class, etc. to see what total homework is and if too much, then health class reserves next day to give hw. All graded homework is planned out beforehand by centralized curriculum anyways so there should be no on-the-fly confusion, unless in case of emergencies (in which AI helps teachers re-schedule). Teachers can offer any optional ungraded hw w/o coordination at any time.
+For ‘at your own pace’ only: students do hw assignments whenever they want.
+
+<<<
+For ‘at the same pace’ only:
+M, F: full lectures
+T, Th: mixed lectures/interactive self-study. Self-study is the replacement for homework; “Interactive” means instant feedback and hands-on training, such as through games/simulations/teachers. This is mixed with traditional studying- study anything you want.
+W: only interactive self-study in classroom while teachers proctor classroom and are on-call to tutor. These are basically the majority of where students do homework or study for exams. For ‘at your own pace’ students, this is all of their days. Teachers are there to keep students on track and teach them self-discipline.
+
+<<<
+For simplicity of this story, all subjects offered only at time given above. For AT YOUR OWN PACE, exams for that subject always offered only at that subject’s period but exam room is a mix of students taking different exams.
+
+<<<
+Possible judgment class (general) topics related to life issues (usually similar ones grouped together and are often revisited more than once in future years of HS) include:
+- Health care
+- What to do when no one believes you
+- Property disputes
+- Relationship issues
+- Raising children
+- Facing accusations you disagree with
+- Taxes
+- Investments 
+- International wars
+- Historical community conflicts
+- Empathy with the mentally ill
+- Additions
+- Existential crises
+- Lack of purpose
+- Avoid being manipulated
+- RECOGNIZING PROPAGANDA
+- Caring about what others think vs not
+- Dealing with your subconsious voice
+- Rejecting reality you disagree with; avoid accepting falsehoods others claim are real but aren’t
+Note that all these general topics are discussed by the 6 training classes (introspection, problem solving, research/communication, health, technology, finance) and so the judgment classes are specific cases to apply these general topics; they usually are not centered around one of these general topics but are mixes of them.
