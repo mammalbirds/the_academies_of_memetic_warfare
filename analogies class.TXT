@@ -1,3 +1,6 @@
+In comparison to the introspection class and intuition class, These techniques of this class (like the research class) are  more similar to existing Actual concepts used in academics such as heuristics for problem solving or mathematical modeling in Sciences. This is because they deal less with psychology and morality and more on quantitative aspects. However in the context of a story there are still certain parts which take liberties in exaggerating or misusing the concepts for entertainment purposes. So this book should not be used to learn these techniques much like you can't use Star Wars to learn how to build a spaceship.
+
+<<<
 Understanding New perspectives is important for solving problems. Correctly judge something based on structural similarity in analogies and recognize superficial similarities; use the right models and don't confuse the map for the territory.
 
 Structural similarity doesn't it's rights and superficial similarity doesn't mean it's wrong. Depends on how they're used in arguments. An obvious example when something doesn't hold as an argument is claiming that... 
